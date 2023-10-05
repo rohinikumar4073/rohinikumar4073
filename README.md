@@ -1,3 +1,3 @@
 - 👋 Hi, I’m vishnu sandhireddy
-- I work in JavaScript
+- I work in MathWorks
 - Learning MATLAB
