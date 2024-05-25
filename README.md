@@ -1,3 +1,8 @@
 - 👋 Hi, I’m vishnu sandhireddy
-- I work in MathWorks
-- Learning MATLAB
+- I work as Team Lead in MathWorks and works in improving code navigation of the features in MATLAB Editor
+- I have multiple interests
+- Creative Coding
+- Blogging
+- Politcs
+- Visualisations
+- JavaScript
